@@ -26,7 +26,7 @@
 *                                                                 
   * @project_name : SHAKIRA
    * @author : BENJAMINI-OMARY.
-   * @Wa-group : https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ 
+   * @Wa-group : https://chat.whatsapp.com/I98ptwPbiFd7CvHXtcJMxp
    * @description : Shakira ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
