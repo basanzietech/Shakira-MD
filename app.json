@@ -1,7 +1,7 @@
 {
-  "name": "Miles@1.0.1",
-  "description": "I am Miles,your friendly neighborhood, built in NodeJs by Jordan-Joelstar for fun\n\t if you have issues :https://tinyurl.com/295kym87",
-  "logo": "https://telegra.ph/file/5a06979ab4afb8ab7dccb.jpg",
+  "name": "Shakira@1.0.1",
+  "description": "I am Shakira,your friendly neighborhood, built in NodeJs by Benjamini-Omary for fun\n\t if you have issues : https://chat.whatsapp.com/I98ptwPbiFd7CvHXtcJMxp",
+  "logo": "https://telegra.ph/file/a780e2d3991bda292235d.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "BOT OWNER NAME",    
-      "value": "𝕁𝕆ℝ𝔻𝔸ℕ-𝕁𝕆𝔼𝕃𝕊𝕋𝔸ℝ",
+      "value": "ʙᴇɴᴊᴀᴍɪɴɪ ᴏᴍᴀʀʏ",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "《M》《I》《L》《E》《S》"
+      "value": "sʜᴀᴋɪʀᴀ-ᴍᴅ"
     },  
     "GURL": {
       "description": "",
       "required" :false,    
-      "value": "https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P"
+      "value": "https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l"
     }, 
     "TZ": {
       "description": "PUT TIME_ZONE ACCORDING TO YOUR LOCATION",
       "required" :false,    
-      "value": "Africa/Lagos"
+      "value": "Africa/Dar_es_Salaam"
     },  
     "FLUSH": {
       "description": " MAKE IT 'TRUE' IF BOT CONNECTED BUT NOT RESPONED (AFTER DEPLOYEMENT!)",
@@ -52,7 +52,7 @@
     "WARN_COUNT": {
       "description": "WARN COUNT FOR USERS TO KICK/BLOCK WHEN WARN LIMIT EXCEEDED!",
       "required" :false,    
-      "value": "2"
+      "value": "3"
     },  
     "AUTO_SAVE_STATUS": {
       "description": " AUTO SAVE WHATSAPP STATUS", 
@@ -72,7 +72,7 @@
     "WAPRESENCE": {
       "description": "FILL THE VALUE: 'unavailable'(FOR NOTHING) | 'available'(FOR ALWAYSONLINE) | 'composing'(FOR TYPING) | 'recording' | 'PAUSED' ",
       "required" :false,
-      "value": "available"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "FILL THE VALUE TRUE IF YOU WANT BOT TO VIEW YOUR CONTACT STATUS.",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "THE PHONE NUMBERS OF THE USERS WHO YOU WANT TO BE ADMIN FOR THE BOT (SHOULD BE IN INTERNATIONAL FORMAT WITHOUT + AND MULTIPLE NUMBERS MUST BE SEPARATED BY A COMMA \",\")",
-      "value": "2349054039891,2347061138624,2349043487099"
+      "value": "255657779003,255687770687"
     },
     "SESSION_ID": {
       "description": "PUT YOUR SESSION_ID HERE.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "STICKER PACK NAME.",
-      "value": "🅹🄾🆁🅳🄰🄽-🅹🄾🅴🄻🅂🅃🄰🆁",
+      "value": "sʜᴀᴋɪʀᴀ-ᴍᴅ",
       "required": false 
     },
     "PACK_AUTHOR": {
       "description": "STICKER AUTHOR NAME.",
-      "value": "🅹🄾🆁🅳🄰🄽-🅹🄾🅴🄻🅂🅃🄰🆁",
+      "value": "♥︎",
       "required": false 
     }
   }, 
