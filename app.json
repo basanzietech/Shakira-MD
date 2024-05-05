@@ -2,7 +2,7 @@
   "name": "Shakira@1.0.1",
   "description": "I am Shakira,your friendly neighborhood, built in NodeJs by Benjamini-Omary for fun\n\t if you have issues : https://chat.whatsapp.com/I98ptwPbiFd7CvHXtcJMxp",
   "logo": "https://telegra.ph/file/a780e2d3991bda292235d.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "shakiraMd", "shakira Md bot", "Shakira-Md", "ShakiraMdWhatsaooBot", "ShakiraWaBot","ShakiraMD","Shakira Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
@@ -45,7 +45,7 @@
       "value": "false"
     },     
     "READ_COMMAND": {
-      "description": " MILES BLUE TICKS COMMANDS IF THIS IS SET 'true'",
+      "description": " SHAKIRA BLUE TICKS COMMANDS IF THIS IS SET 'true'",
       "required" :false,    
       "value": "false"
     },
