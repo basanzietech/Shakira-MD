@@ -1,15 +1,15 @@
 {
-   "name": "Miles",
+   "name": "Shakira",
    "version": "1.0.1",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by basanzietech.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name miles || node .",
-            "suhail": "pm2 start . --deep-monitoring --attach --name miles || node .",
-            "start": "pm2 start . --attach --name jorden",
-            "stop": "pm2 stop miles",
-            "heroku-postbuild": "git clone https://github.com/jamesxtreme/JORDAN-JOELSTAR.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+            "run": "pm2 start . --deep-monitoring --attach --name shakira || node .",
+            "suhail": "pm2 start . --deep-monitoring --attach --name shakira || node .",
+            "start": "pm2 start . --attach --name benjamini",
+            "stop": "pm2 stop shakira",
+            "heroku-postbuild": "git clone https://github.com/basanzietech/shakira-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
             "fis-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "postinstall": "npx puppeteer@latest install --y"
    },
