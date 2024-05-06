@@ -97,6 +97,6 @@
   </div>
   
    ## 
-  [`🕷NIMI`](https://wa.me/255657779003)
-  [`🕷COLLINS`](https://wa.me/+255687770687)
+  [`BENJA`](https://wa.me/255657779003)
+  [`SHAKI`](https://wa.me/+255687770687)
   
