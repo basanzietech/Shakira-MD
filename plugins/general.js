@@ -24,15 +24,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : MILES
-   * @author : JORDAN-JOELSTAR.
-   * @Wa-group : https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ 
-   * @description : Miles ,A Multi-functional whatsapp user bot.
+  * @project_name : SHAKIRA
+   * @author : BENJAMINI-OMARY.
+   * @Wa-group : https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l 
+   * @description : Shakira ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
 * 
-   * Created By JORDAN-JOELSTAR.
-   * © 2024 Miles..
+   * Created By BENJAMINI-OMARY.
+   * © 2024 Shakira..
 */
  
 
