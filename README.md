@@ -52,10 +52,7 @@
 ✍️. ***Get Session ID (SERVER 2)***
     <br>
 <a href='https://jweb1-84e086460531.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
-
-✍️. ***Get Session ID (SERVER 3)***
-    <br>
-    
+    <br>   
 ✍️.  ***FORK SHAKIRA-MD REPO***
     <br>
 <a href='https://github.com/basanzietech/shakira-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
